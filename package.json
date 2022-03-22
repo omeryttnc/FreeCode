@@ -1,6 +1,6 @@
 {
-	"author": "omer ali iyitutuncu",
 	"name": "fcc-learn-npm-package-json",
+	"author": "omer ali iyitutuncu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
