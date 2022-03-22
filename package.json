@@ -22,7 +22,7 @@
 	"license": "MIT",
   "version": "0.0.1",
   "dependencies":{
-    "moment": "2.10.2",
+    "moment": "~2.10.x",
     "package": "MAJOR.MINOR.PATCH"
 
   }
