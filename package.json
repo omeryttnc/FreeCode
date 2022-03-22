@@ -22,8 +22,8 @@
 	"license": "MIT",
   "version": "0.0.1",
   "dependencies":{
-    "package-name": "moment",
-    "express": "2.14.0"
+    "moment": "moment",
+    "version": "2.14.0"
   }
   
 }
